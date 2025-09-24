@@ -6,7 +6,7 @@ Download the latest Poppler prebuilt-binaries packaged with dependencies for Win
 
 [![Package For Windows](https://github.com/DrawboardLtd/poppler-windows/actions/workflows/release.yaml/badge.svg)](https://github.com/DrawboardLtd/poppler-windows/actions/workflows/release.yaml)
 
-You can download the latest build from [releases](https://github.com/oschwartz10612/poppler-windows/releases/latest).
+You can download the latest build from [releases](https://github.com/DrawboardLtd/poppler-windows/releases).
 
 ## What is this?
 Please note that the purpose of this repository is solely to download the compiled Poppler binaries from conda-forge poppler-feedstock and put everything in a nice zip for use. This repository does not build Poppler. If you believe you have an issue with poppler itself - or the building of it - please direct those requests to the upstream sources with Poppler team or the guys over at [poppler-feedstock](https://github.com/conda-forge/poppler-feedstock).
